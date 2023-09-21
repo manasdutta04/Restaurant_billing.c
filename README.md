@@ -2,7 +2,9 @@
 Restaurant_billing_in_c
 
 
+## License
 
+```
 MIT License
 
 Copyright (c) 2023 Manas Dutta
