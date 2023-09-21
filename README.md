@@ -1,6 +1,8 @@
 # Restaurant_billing.c
 Restaurant_billing_in_c
-
+<p align="center">
+<img src="Restaurant_billing.gif" width="1280"/>
+</p>
 
 ## License
 
